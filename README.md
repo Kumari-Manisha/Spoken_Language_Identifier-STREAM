@@ -38,10 +38,10 @@ Test Dataset: 398 files
 
 **Models based on the sample data and their accuracy score:**
 
-o   The artificial neural network-  90 %
+	* The artificial neural network-  90 %
 
-o   Decision tree- 90%
+	*  Decision tree- 90%
 
-o   Random Forest- 86%
+ 	*  Random Forest- 86%
 
-o   SVM-  100%
+	*  SVM-  100%
