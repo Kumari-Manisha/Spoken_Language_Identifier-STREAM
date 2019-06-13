@@ -7,7 +7,7 @@ The goal of this project is to streamline or shorten the time for the intake pro
 
 **Dataset (complete):**
 
-**Nepali Data: **
+**Nepali Data:**
 
 	115 audio files (10 – 40 mins) , 2.42 GB(Zip)
 	Splitted to 11,424 files (10 Sec), 19.4 GB
