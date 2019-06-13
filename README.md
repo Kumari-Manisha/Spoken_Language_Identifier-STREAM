@@ -28,8 +28,11 @@ Test Dataset: 398 files
 **Feature Extraction:**
   used **MFCC**. 
   The **Mel-Frequency Cepstral Coefficients (MFCC)** features is the most commonly used features in speaker recognition. It combines the 	   advantages of the cepstrum analysis with a perceptual frequency scale based on critical bands.
+  
 	* MFCC is based on human hearing perceptions which cannot perceive frequencies over 1Khz.
+	
 	* In other words, in MFCC is based on known variation of the human ear’s critical bandwidth with frequency. 
+	
 	* MFCC has two types of filter which are spaced linearly at low frequency below 1000 Hz and logarithmic spacing above 1000Hz.
  
 
