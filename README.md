@@ -14,7 +14,7 @@ The goal of this project is to streamline or shorten the time for the intake pro
 
 **Other Language Data:**
 
-	From Topcoder:78,496 files, 5.5 GB(Zip)
+	78,496 files, 5.5 GB(Zip)
 	Non Nepali Data of 10 sec each
   176 Languages
 	Each language has 446 sample files
@@ -23,6 +23,7 @@ The goal of this project is to streamline or shorten the time for the intake pro
 **Dataset (sample):**
 
 Training dataset: 2069 audio files 
+
 Test Dataset: 398 files 
 
 **Feature Extraction:**
